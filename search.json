@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "neural-network-from-scratch",
+    "section": "",
+    "text": "neural_network_from_scratch.core??\nThis file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "neural-network-from-scratch",
+    "section": "Install",
+    "text": "Install\npip install neural_network_from_scratch"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "neural-network-from-scratch",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n#minus_one()\n\nNameError: name 'minus_one' is not defined\n\n\n\n#foo()\n\n\n#foo?\n\n\n#add_one(2)\n\nNameError: name 'add_one' is not defined\n\n\n\n#foo(1)\n\nNameError: name 'hoo' is not defined\n\n\n\n1+1\n\n2\n\n\n\n#hoo??\n\nObject `hoo` not found.\n\n\n\n#hoo(1)\n\nNameError: name 'hoo' is not defined\n\n\n\n#activation??\n\nObject `activation` not found.\n\n\n\n#activation(10)\n\nNameError: name 'activation' is not defined"
+  },
+  {
+    "objectID": "activation.html",
+    "href": "activation.html",
+    "title": "activation",
+    "section": "",
+    "text": "Just test stuff\n\n\nactivation(5)\n\n15\n\n\n\n\n\n\n activation (x:int)\n\n\n\n\n\nType\nDetails\n\n\n\n\nx\nint\nnumber only\n\n\n\n\n#hello"
+  },
+  {
+    "objectID": "neuron.html",
+    "href": "neuron.html",
+    "title": "neural-network-from-scratch",
+    "section": "",
+    "text": "!nbdev_help\n\nnbdev_bump_version              Increment version in settings.ini by one\nnbdev_changelog                 Create a CHANGELOG.md file from closed and labeled GitHub issues\nnbdev_clean                     Clean all notebooks in `fname` to avoid merge conflicts\nnbdev_conda                     Create a `meta.yaml` file ready to be built into a package, and optionally build and upload it\nnbdev_create_config             Create a config file.\nnbdev_deploy                    Deploy docs to GitHub Pages\nnbdev_docs                      Create Quarto docs and README.md\nnbdev_export                    Export notebooks in `path` to Python modules\nnbdev_filter                    A notebook filter for Quarto\nnbdev_fix                       Create working notebook from conflicted notebook `nbname`\nnbdev_help                      Show help for all console scripts\nnbdev_install                   Install Quarto and the current library\nnbdev_install_hooks             Install Jupyter and git hooks to automatically clean, trust, and fix merge conflicts in notebooks\nnbdev_install_quarto            Install latest Quarto on macOS or Linux, prints instructions for Windows\nnbdev_merge                     Git merge driver for notebooks\nnbdev_migrate                   Convert all directives and callouts in `fname` from v1 to v2\nnbdev_new                       Create a new project.\nnbdev_prepare                   Export, test, and clean notebooks\nnbdev_preview                   Preview docs locally\nnbdev_pypi                      Create and upload Python package to PyPI\nnbdev_quarto                    Create Quarto docs and README.md\nnbdev_readme                    Render README.md from index.ipynb\nnbdev_release_both              Release both conda and PyPI packages\nnbdev_release_gh                Calls `nbdev_changelog`, lets you edit the result, then pushes to git and calls `nbdev_release_git`\nnbdev_release_git               Tag and create a release in GitHub for the current version\nnbdev_sidebar                   Create sidebar.yml\nnbdev_test                      Test in parallel notebooks matching `fname`, passing along `flags`\nnbdev_trust                     Trust notebooks matching `fname`\nnbdev_update                    Propagate change in modules matching `fname` to notebooks that created them"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "Imlement feedforward pass from scratch\n\n\n\n\n\n minus_one ()\n\n\nminus_one()\n\n\n\n\n\n\n add_one (x)\n\n\nadd_one(1)\n\n2"
+  }
+]
