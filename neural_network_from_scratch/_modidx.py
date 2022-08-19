@@ -33,5 +33,12 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'user': 'xrsrke',
                 'version': '0.0.1'},
   'syms': { 'neural_network_from_scratch.activation': { 'neural_network_from_scratch.activation.activation': 'https://xrsrke.github.io/neural_network_from_scratch.activation.html#activation'},
+            'neural_network_from_scratch.backpropagation': {},
+            'neural_network_from_scratch.card': {},
             'neural_network_from_scratch.core': { 'neural_network_from_scratch.core.add_one': 'https://xrsrke.github.io/neural_network_from_scratch.core.html#add_one',
-                                                  'neural_network_from_scratch.core.minus_one': 'https://xrsrke.github.io/neural_network_from_scratch.core.html#minus_one'}}}
+                                                  'neural_network_from_scratch.core.minus_one': 'https://xrsrke.github.io/neural_network_from_scratch.core.html#minus_one'},
+            'neural_network_from_scratch.datasets': {},
+            'neural_network_from_scratch.loss': {'neural_network_from_scratch.loss.mse': 'https://xrsrke.github.io/neural_network_from_scratch.loss.html#mse'},
+            'neural_network_from_scratch.matmul': { 'neural_network_from_scratch.matmul.minus_one': 'https://xrsrke.github.io/neural_network_from_scratch.matmul.html#minus_one'},
+            'neural_network_from_scratch.test': { 'neural_network_from_scratch.test.compare': 'https://xrsrke.github.io/neural_network_from_scratch.test.html#compare',
+                                                  'neural_network_from_scratch.test.compare_eq': 'https://xrsrke.github.io/neural_network_from_scratch.test.html#compare_eq'}}}

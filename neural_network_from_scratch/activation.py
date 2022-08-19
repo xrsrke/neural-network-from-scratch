@@ -5,6 +5,7 @@ __all__ = ['activation']
 
 # %% ../01_activations.ipynb 3
 from fastcore.utils import *
+import numpy as np
 
 # %% ../01_activations.ipynb 5
 #def foo(): pass
